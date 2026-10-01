@@ -165,4 +165,5 @@ CMakeFiles/oop_lab1_main.dir/main.cpp.obj: C:/C/OOP/oop_lab1/main.cpp \
  C:/msys64/ucrt64/include/c++/16.2.0/bits/ostream.tcc \
  C:/msys64/ucrt64/include/c++/16.2.0/istream \
  C:/msys64/ucrt64/include/c++/16.2.0/bits/istream.tcc \
- C:/C/OOP/oop_lab1/src/matrix.h C:/C/OOP/oop_lab1/src/funcs.h
+ C:/C/OOP/oop_lab1/src/matrix.h C:/C/OOP/oop_lab1/src/funcs.h \
+ C:/msys64/ucrt64/include/c++/16.2.0/ctime

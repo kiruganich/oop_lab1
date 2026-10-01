@@ -1,11 +1,11 @@
-MatrixOpsTest.CreateAndDelete 1 0.0254039
-MatrixOpsTest.CreateEmpty 1 0.0156025
-MatrixOpsTest.CreateZeroRows 1 0.0179915
-MatrixOpsTest.CreateZeroCols 1 0.016889
-MatrixOpsTest.FillValidMatrix 1 0.0185019
-MatrixOpsTest.FillNullMatrix 1 0.0172014
-AlgorithmTest.RowSwapValid 1 0.0170691
-AlgorithmTest.RowSwapSameIndex 1 0.0172755
-AlgorithmTest.ColSwapValid 1 0.0167636
-AlgorithmTest.ColSwapNullptr 1 0.0172355
+MatrixOpsTest.CreateAndDelete 2 0.009167
+MatrixOpsTest.CreateEmpty 2 0.007692
+MatrixOpsTest.CreateZeroRows 2 0.00796635
+MatrixOpsTest.CreateZeroCols 2 0.0079752
+MatrixOpsTest.FillValidMatrix 2 0.00912355
+MatrixOpsTest.FillNullMatrix 2 0.0082492
+AlgorithmTest.RowSwapValid 2 0.00816845
+AlgorithmTest.RowSwapSameIndex 2 0.00970165
+AlgorithmTest.ColSwapValid 2 0.0092377
+AlgorithmTest.ColSwapNullptr 2 0.0083409
 ---

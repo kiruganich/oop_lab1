@@ -1,10 +1,10 @@
-Start testing: Oct 01 22:35 RTZ 2 (çèìà)
+Start testing: Oct 01 22:43 RTZ 2 (çèìà)
 ----------------------------------------------------------
 1/10 Testing: MatrixOpsTest.CreateAndDelete
 1/10 Test: MatrixOpsTest.CreateAndDelete
 Command: "C:/C/OOP/oop_lab1/build/oop_lab1_tests.exe" "--gtest_filter=MatrixOpsTest.CreateAndDelete" "--gtest_also_run_disabled_tests"
 Directory: C:/C/OOP/oop_lab1/build
-"MatrixOpsTest.CreateAndDelete" start time: Oct 01 22:35 RTZ 2 (çèìà)
+"MatrixOpsTest.CreateAndDelete" start time: Oct 01 22:43 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Running main() from C:/C/OOP/oop_lab1/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -20,10 +20,10 @@ Note: Google Test filter = MatrixOpsTest.CreateAndDelete
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.03 sec
+Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"MatrixOpsTest.CreateAndDelete" end time: Oct 01 22:35 RTZ 2 (çèìà)
+"MatrixOpsTest.CreateAndDelete" end time: Oct 01 22:43 RTZ 2 (çèìà)
 "MatrixOpsTest.CreateAndDelete" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -31,7 +31,7 @@ Test Passed.
 2/10 Test: MatrixOpsTest.CreateEmpty
 Command: "C:/C/OOP/oop_lab1/build/oop_lab1_tests.exe" "--gtest_filter=MatrixOpsTest.CreateEmpty" "--gtest_also_run_disabled_tests"
 Directory: C:/C/OOP/oop_lab1/build
-"MatrixOpsTest.CreateEmpty" start time: Oct 01 22:35 RTZ 2 (çèìà)
+"MatrixOpsTest.CreateEmpty" start time: Oct 01 22:43 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Running main() from C:/C/OOP/oop_lab1/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -50,7 +50,7 @@ Note: Google Test filter = MatrixOpsTest.CreateEmpty
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"MatrixOpsTest.CreateEmpty" end time: Oct 01 22:35 RTZ 2 (çèìà)
+"MatrixOpsTest.CreateEmpty" end time: Oct 01 22:43 RTZ 2 (çèìà)
 "MatrixOpsTest.CreateEmpty" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -58,7 +58,7 @@ Test Passed.
 3/10 Test: MatrixOpsTest.CreateZeroRows
 Command: "C:/C/OOP/oop_lab1/build/oop_lab1_tests.exe" "--gtest_filter=MatrixOpsTest.CreateZeroRows" "--gtest_also_run_disabled_tests"
 Directory: C:/C/OOP/oop_lab1/build
-"MatrixOpsTest.CreateZeroRows" start time: Oct 01 22:35 RTZ 2 (çèìà)
+"MatrixOpsTest.CreateZeroRows" start time: Oct 01 22:43 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Running main() from C:/C/OOP/oop_lab1/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -77,7 +77,7 @@ Note: Google Test filter = MatrixOpsTest.CreateZeroRows
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"MatrixOpsTest.CreateZeroRows" end time: Oct 01 22:35 RTZ 2 (çèìà)
+"MatrixOpsTest.CreateZeroRows" end time: Oct 01 22:43 RTZ 2 (çèìà)
 "MatrixOpsTest.CreateZeroRows" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -85,7 +85,7 @@ Test Passed.
 4/10 Test: MatrixOpsTest.CreateZeroCols
 Command: "C:/C/OOP/oop_lab1/build/oop_lab1_tests.exe" "--gtest_filter=MatrixOpsTest.CreateZeroCols" "--gtest_also_run_disabled_tests"
 Directory: C:/C/OOP/oop_lab1/build
-"MatrixOpsTest.CreateZeroCols" start time: Oct 01 22:35 RTZ 2 (çèìà)
+"MatrixOpsTest.CreateZeroCols" start time: Oct 01 22:43 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Running main() from C:/C/OOP/oop_lab1/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -104,7 +104,7 @@ Note: Google Test filter = MatrixOpsTest.CreateZeroCols
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"MatrixOpsTest.CreateZeroCols" end time: Oct 01 22:35 RTZ 2 (çèìà)
+"MatrixOpsTest.CreateZeroCols" end time: Oct 01 22:43 RTZ 2 (çèìà)
 "MatrixOpsTest.CreateZeroCols" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -112,7 +112,7 @@ Test Passed.
 5/10 Test: MatrixOpsTest.FillValidMatrix
 Command: "C:/C/OOP/oop_lab1/build/oop_lab1_tests.exe" "--gtest_filter=MatrixOpsTest.FillValidMatrix" "--gtest_also_run_disabled_tests"
 Directory: C:/C/OOP/oop_lab1/build
-"MatrixOpsTest.FillValidMatrix" start time: Oct 01 22:35 RTZ 2 (çèìà)
+"MatrixOpsTest.FillValidMatrix" start time: Oct 01 22:43 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Running main() from C:/C/OOP/oop_lab1/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -131,7 +131,7 @@ Note: Google Test filter = MatrixOpsTest.FillValidMatrix
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"MatrixOpsTest.FillValidMatrix" end time: Oct 01 22:35 RTZ 2 (çèìà)
+"MatrixOpsTest.FillValidMatrix" end time: Oct 01 22:43 RTZ 2 (çèìà)
 "MatrixOpsTest.FillValidMatrix" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -139,7 +139,7 @@ Test Passed.
 6/10 Test: MatrixOpsTest.FillNullMatrix
 Command: "C:/C/OOP/oop_lab1/build/oop_lab1_tests.exe" "--gtest_filter=MatrixOpsTest.FillNullMatrix" "--gtest_also_run_disabled_tests"
 Directory: C:/C/OOP/oop_lab1/build
-"MatrixOpsTest.FillNullMatrix" start time: Oct 01 22:35 RTZ 2 (çèìà)
+"MatrixOpsTest.FillNullMatrix" start time: Oct 01 22:43 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Running main() from C:/C/OOP/oop_lab1/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -158,7 +158,7 @@ Note: Google Test filter = MatrixOpsTest.FillNullMatrix
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"MatrixOpsTest.FillNullMatrix" end time: Oct 01 22:35 RTZ 2 (çèìà)
+"MatrixOpsTest.FillNullMatrix" end time: Oct 01 22:43 RTZ 2 (çèìà)
 "MatrixOpsTest.FillNullMatrix" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -166,7 +166,7 @@ Test Passed.
 7/10 Test: AlgorithmTest.RowSwapValid
 Command: "C:/C/OOP/oop_lab1/build/oop_lab1_tests.exe" "--gtest_filter=AlgorithmTest.RowSwapValid" "--gtest_also_run_disabled_tests"
 Directory: C:/C/OOP/oop_lab1/build
-"AlgorithmTest.RowSwapValid" start time: Oct 01 22:35 RTZ 2 (çèìà)
+"AlgorithmTest.RowSwapValid" start time: Oct 01 22:43 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Running main() from C:/C/OOP/oop_lab1/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -185,7 +185,7 @@ Note: Google Test filter = AlgorithmTest.RowSwapValid
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"AlgorithmTest.RowSwapValid" end time: Oct 01 22:35 RTZ 2 (çèìà)
+"AlgorithmTest.RowSwapValid" end time: Oct 01 22:43 RTZ 2 (çèìà)
 "AlgorithmTest.RowSwapValid" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -193,7 +193,7 @@ Test Passed.
 8/10 Test: AlgorithmTest.RowSwapSameIndex
 Command: "C:/C/OOP/oop_lab1/build/oop_lab1_tests.exe" "--gtest_filter=AlgorithmTest.RowSwapSameIndex" "--gtest_also_run_disabled_tests"
 Directory: C:/C/OOP/oop_lab1/build
-"AlgorithmTest.RowSwapSameIndex" start time: Oct 01 22:35 RTZ 2 (çèìà)
+"AlgorithmTest.RowSwapSameIndex" start time: Oct 01 22:43 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Running main() from C:/C/OOP/oop_lab1/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -212,7 +212,7 @@ Note: Google Test filter = AlgorithmTest.RowSwapSameIndex
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"AlgorithmTest.RowSwapSameIndex" end time: Oct 01 22:35 RTZ 2 (çèìà)
+"AlgorithmTest.RowSwapSameIndex" end time: Oct 01 22:43 RTZ 2 (çèìà)
 "AlgorithmTest.RowSwapSameIndex" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -220,7 +220,7 @@ Test Passed.
 9/10 Test: AlgorithmTest.ColSwapValid
 Command: "C:/C/OOP/oop_lab1/build/oop_lab1_tests.exe" "--gtest_filter=AlgorithmTest.ColSwapValid" "--gtest_also_run_disabled_tests"
 Directory: C:/C/OOP/oop_lab1/build
-"AlgorithmTest.ColSwapValid" start time: Oct 01 22:35 RTZ 2 (çèìà)
+"AlgorithmTest.ColSwapValid" start time: Oct 01 22:43 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Running main() from C:/C/OOP/oop_lab1/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -239,7 +239,7 @@ Note: Google Test filter = AlgorithmTest.ColSwapValid
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"AlgorithmTest.ColSwapValid" end time: Oct 01 22:35 RTZ 2 (çèìà)
+"AlgorithmTest.ColSwapValid" end time: Oct 01 22:43 RTZ 2 (çèìà)
 "AlgorithmTest.ColSwapValid" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -247,7 +247,7 @@ Test Passed.
 10/10 Test: AlgorithmTest.ColSwapNullptr
 Command: "C:/C/OOP/oop_lab1/build/oop_lab1_tests.exe" "--gtest_filter=AlgorithmTest.ColSwapNullptr" "--gtest_also_run_disabled_tests"
 Directory: C:/C/OOP/oop_lab1/build
-"AlgorithmTest.ColSwapNullptr" start time: Oct 01 22:35 RTZ 2 (çèìà)
+"AlgorithmTest.ColSwapNullptr" start time: Oct 01 22:43 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Running main() from C:/C/OOP/oop_lab1/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -266,8 +266,8 @@ Note: Google Test filter = AlgorithmTest.ColSwapNullptr
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"AlgorithmTest.ColSwapNullptr" end time: Oct 01 22:35 RTZ 2 (çèìà)
+"AlgorithmTest.ColSwapNullptr" end time: Oct 01 22:43 RTZ 2 (çèìà)
 "AlgorithmTest.ColSwapNullptr" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Oct 01 22:35 RTZ 2 (çèìà)
+End testing: Oct 01 22:43 RTZ 2 (çèìà)

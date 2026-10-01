@@ -2,7 +2,8 @@
 #include <limits>
 #include "matrix.h"
 #include "funcs.h"
-
+#include <cstdlib> // Для rand() и srand()
+#include <ctime>   // Для time()
 
 void clear_input() {
     std::cin.clear();
@@ -20,8 +21,9 @@ int main() {
                  << "2. Fill with value\n"
                  << "3. Print matrix\n"
                  << "4. Swap rows/coloumns\n"
+                 << "5. Fill with random values (0-9)\n"
                  << "0. Exit\n"
-                 << "Enter 0-4: ";
+                 << "Enter 0-5: ";
         int choice;
         if (!(std::cin >> choice)) {
             clear_input();
@@ -110,6 +112,17 @@ int main() {
                 }
                 break;
             }
+
+            case 5: {
+                if (!matrix || curr_rows == 0 || curr_cols == 0) {
+                    std::cout << "Matix wasn't created\n";
+                    break;
+                }
+                matrix_fill_random(matrix, curr_rows, curr_cols);
+                std::cout << "Filled with random values\n";
+                break;
+            }
+            
             default: 
                 std::cout << "Unknown command\n";
                 break;

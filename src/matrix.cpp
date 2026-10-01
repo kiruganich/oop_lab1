@@ -1,7 +1,7 @@
 #include <matrix.h>
 #include <iostream>
 #include <iomanip>
-
+#include <cstdlib>
 
 
 int **matrix_create(std::size_t rows, std::size_t cols) {
@@ -51,3 +51,12 @@ void matrix_print(const int* const* m, std::size_t rows, std::size_t cols) {
     std::cout << "\n";
 }
 
+
+void matrix_fill_random(int** m, std::size_t rows, std::size_t cols) {
+    if (!m || rows == 0 || cols == 0) return;
+    for (std::size_t i = 0; i < rows; ++i) {
+        for (std::size_t j = 0; j < cols; ++j) {
+            m[i][j] = std::rand() % 10; // Остаток от деления на 10 дает числа от 0 до 9
+        }
+    }
+}
