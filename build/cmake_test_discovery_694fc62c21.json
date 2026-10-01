@@ -1,0 +1,68 @@
+{
+  "tests": 10,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "MatrixOpsTest",
+      "tests": 6,
+      "testsuite": [
+        {
+          "name": "CreateAndDelete",
+          "file": "C:\/C\/OOP\/oop_lab1\/tests\/test.cpp",
+          "line": 5
+        },
+        {
+          "name": "CreateEmpty",
+          "file": "C:\/C\/OOP\/oop_lab1\/tests\/test.cpp",
+          "line": 11
+        },
+        {
+          "name": "CreateZeroRows",
+          "file": "C:\/C\/OOP\/oop_lab1\/tests\/test.cpp",
+          "line": 17
+        },
+        {
+          "name": "CreateZeroCols",
+          "file": "C:\/C\/OOP\/oop_lab1\/tests\/test.cpp",
+          "line": 23
+        },
+        {
+          "name": "FillValidMatrix",
+          "file": "C:\/C\/OOP\/oop_lab1\/tests\/test.cpp",
+          "line": 29
+        },
+        {
+          "name": "FillNullMatrix",
+          "file": "C:\/C\/OOP\/oop_lab1\/tests\/test.cpp",
+          "line": 37
+        }
+      ]
+    },
+    {
+      "name": "AlgorithmTest",
+      "tests": 4,
+      "testsuite": [
+        {
+          "name": "RowSwapValid",
+          "file": "C:\/C\/OOP\/oop_lab1\/tests\/test.cpp",
+          "line": 42
+        },
+        {
+          "name": "RowSwapSameIndex",
+          "file": "C:\/C\/OOP\/oop_lab1\/tests\/test.cpp",
+          "line": 56
+        },
+        {
+          "name": "ColSwapValid",
+          "file": "C:\/C\/OOP\/oop_lab1\/tests\/test.cpp",
+          "line": 67
+        },
+        {
+          "name": "ColSwapNullptr",
+          "file": "C:\/C\/OOP\/oop_lab1\/tests\/test.cpp",
+          "line": 81
+        }
+      ]
+    }
+  ]
+}

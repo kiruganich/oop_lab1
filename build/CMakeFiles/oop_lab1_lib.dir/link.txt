@@ -1,0 +1,2 @@
+C:/msys64/ucrt64/bin/ar.exe qc liboop_lab1_lib.a CMakeFiles/oop_lab1_lib.dir/src/matrix.cpp.obj CMakeFiles/oop_lab1_lib.dir/src/funcs.cpp.obj
+C:/msys64/ucrt64/bin/ranlib.exe liboop_lab1_lib.a

@@ -1,0 +1,273 @@
+Start testing: Oct 01 22:35 RTZ 2 (çèìà)
+----------------------------------------------------------
+1/10 Testing: MatrixOpsTest.CreateAndDelete
+1/10 Test: MatrixOpsTest.CreateAndDelete
+Command: "C:/C/OOP/oop_lab1/build/oop_lab1_tests.exe" "--gtest_filter=MatrixOpsTest.CreateAndDelete" "--gtest_also_run_disabled_tests"
+Directory: C:/C/OOP/oop_lab1/build
+"MatrixOpsTest.CreateAndDelete" start time: Oct 01 22:35 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/C/OOP/oop_lab1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixOpsTest.CreateAndDelete
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixOpsTest
+[ RUN      ] MatrixOpsTest.CreateAndDelete
+[       OK ] MatrixOpsTest.CreateAndDelete (0 ms)
+[----------] 1 test from MatrixOpsTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixOpsTest.CreateAndDelete" end time: Oct 01 22:35 RTZ 2 (çèìà)
+"MatrixOpsTest.CreateAndDelete" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/10 Testing: MatrixOpsTest.CreateEmpty
+2/10 Test: MatrixOpsTest.CreateEmpty
+Command: "C:/C/OOP/oop_lab1/build/oop_lab1_tests.exe" "--gtest_filter=MatrixOpsTest.CreateEmpty" "--gtest_also_run_disabled_tests"
+Directory: C:/C/OOP/oop_lab1/build
+"MatrixOpsTest.CreateEmpty" start time: Oct 01 22:35 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/C/OOP/oop_lab1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixOpsTest.CreateEmpty
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixOpsTest
+[ RUN      ] MatrixOpsTest.CreateEmpty
+[       OK ] MatrixOpsTest.CreateEmpty (0 ms)
+[----------] 1 test from MatrixOpsTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixOpsTest.CreateEmpty" end time: Oct 01 22:35 RTZ 2 (çèìà)
+"MatrixOpsTest.CreateEmpty" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/10 Testing: MatrixOpsTest.CreateZeroRows
+3/10 Test: MatrixOpsTest.CreateZeroRows
+Command: "C:/C/OOP/oop_lab1/build/oop_lab1_tests.exe" "--gtest_filter=MatrixOpsTest.CreateZeroRows" "--gtest_also_run_disabled_tests"
+Directory: C:/C/OOP/oop_lab1/build
+"MatrixOpsTest.CreateZeroRows" start time: Oct 01 22:35 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/C/OOP/oop_lab1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixOpsTest.CreateZeroRows
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixOpsTest
+[ RUN      ] MatrixOpsTest.CreateZeroRows
+[       OK ] MatrixOpsTest.CreateZeroRows (0 ms)
+[----------] 1 test from MatrixOpsTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixOpsTest.CreateZeroRows" end time: Oct 01 22:35 RTZ 2 (çèìà)
+"MatrixOpsTest.CreateZeroRows" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/10 Testing: MatrixOpsTest.CreateZeroCols
+4/10 Test: MatrixOpsTest.CreateZeroCols
+Command: "C:/C/OOP/oop_lab1/build/oop_lab1_tests.exe" "--gtest_filter=MatrixOpsTest.CreateZeroCols" "--gtest_also_run_disabled_tests"
+Directory: C:/C/OOP/oop_lab1/build
+"MatrixOpsTest.CreateZeroCols" start time: Oct 01 22:35 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/C/OOP/oop_lab1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixOpsTest.CreateZeroCols
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixOpsTest
+[ RUN      ] MatrixOpsTest.CreateZeroCols
+[       OK ] MatrixOpsTest.CreateZeroCols (0 ms)
+[----------] 1 test from MatrixOpsTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixOpsTest.CreateZeroCols" end time: Oct 01 22:35 RTZ 2 (çèìà)
+"MatrixOpsTest.CreateZeroCols" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/10 Testing: MatrixOpsTest.FillValidMatrix
+5/10 Test: MatrixOpsTest.FillValidMatrix
+Command: "C:/C/OOP/oop_lab1/build/oop_lab1_tests.exe" "--gtest_filter=MatrixOpsTest.FillValidMatrix" "--gtest_also_run_disabled_tests"
+Directory: C:/C/OOP/oop_lab1/build
+"MatrixOpsTest.FillValidMatrix" start time: Oct 01 22:35 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/C/OOP/oop_lab1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixOpsTest.FillValidMatrix
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixOpsTest
+[ RUN      ] MatrixOpsTest.FillValidMatrix
+[       OK ] MatrixOpsTest.FillValidMatrix (0 ms)
+[----------] 1 test from MatrixOpsTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixOpsTest.FillValidMatrix" end time: Oct 01 22:35 RTZ 2 (çèìà)
+"MatrixOpsTest.FillValidMatrix" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/10 Testing: MatrixOpsTest.FillNullMatrix
+6/10 Test: MatrixOpsTest.FillNullMatrix
+Command: "C:/C/OOP/oop_lab1/build/oop_lab1_tests.exe" "--gtest_filter=MatrixOpsTest.FillNullMatrix" "--gtest_also_run_disabled_tests"
+Directory: C:/C/OOP/oop_lab1/build
+"MatrixOpsTest.FillNullMatrix" start time: Oct 01 22:35 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/C/OOP/oop_lab1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixOpsTest.FillNullMatrix
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixOpsTest
+[ RUN      ] MatrixOpsTest.FillNullMatrix
+[       OK ] MatrixOpsTest.FillNullMatrix (0 ms)
+[----------] 1 test from MatrixOpsTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixOpsTest.FillNullMatrix" end time: Oct 01 22:35 RTZ 2 (çèìà)
+"MatrixOpsTest.FillNullMatrix" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/10 Testing: AlgorithmTest.RowSwapValid
+7/10 Test: AlgorithmTest.RowSwapValid
+Command: "C:/C/OOP/oop_lab1/build/oop_lab1_tests.exe" "--gtest_filter=AlgorithmTest.RowSwapValid" "--gtest_also_run_disabled_tests"
+Directory: C:/C/OOP/oop_lab1/build
+"AlgorithmTest.RowSwapValid" start time: Oct 01 22:35 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/C/OOP/oop_lab1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = AlgorithmTest.RowSwapValid
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AlgorithmTest
+[ RUN      ] AlgorithmTest.RowSwapValid
+[       OK ] AlgorithmTest.RowSwapValid (0 ms)
+[----------] 1 test from AlgorithmTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"AlgorithmTest.RowSwapValid" end time: Oct 01 22:35 RTZ 2 (çèìà)
+"AlgorithmTest.RowSwapValid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/10 Testing: AlgorithmTest.RowSwapSameIndex
+8/10 Test: AlgorithmTest.RowSwapSameIndex
+Command: "C:/C/OOP/oop_lab1/build/oop_lab1_tests.exe" "--gtest_filter=AlgorithmTest.RowSwapSameIndex" "--gtest_also_run_disabled_tests"
+Directory: C:/C/OOP/oop_lab1/build
+"AlgorithmTest.RowSwapSameIndex" start time: Oct 01 22:35 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/C/OOP/oop_lab1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = AlgorithmTest.RowSwapSameIndex
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AlgorithmTest
+[ RUN      ] AlgorithmTest.RowSwapSameIndex
+[       OK ] AlgorithmTest.RowSwapSameIndex (0 ms)
+[----------] 1 test from AlgorithmTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"AlgorithmTest.RowSwapSameIndex" end time: Oct 01 22:35 RTZ 2 (çèìà)
+"AlgorithmTest.RowSwapSameIndex" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/10 Testing: AlgorithmTest.ColSwapValid
+9/10 Test: AlgorithmTest.ColSwapValid
+Command: "C:/C/OOP/oop_lab1/build/oop_lab1_tests.exe" "--gtest_filter=AlgorithmTest.ColSwapValid" "--gtest_also_run_disabled_tests"
+Directory: C:/C/OOP/oop_lab1/build
+"AlgorithmTest.ColSwapValid" start time: Oct 01 22:35 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/C/OOP/oop_lab1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = AlgorithmTest.ColSwapValid
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AlgorithmTest
+[ RUN      ] AlgorithmTest.ColSwapValid
+[       OK ] AlgorithmTest.ColSwapValid (0 ms)
+[----------] 1 test from AlgorithmTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"AlgorithmTest.ColSwapValid" end time: Oct 01 22:35 RTZ 2 (çèìà)
+"AlgorithmTest.ColSwapValid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/10 Testing: AlgorithmTest.ColSwapNullptr
+10/10 Test: AlgorithmTest.ColSwapNullptr
+Command: "C:/C/OOP/oop_lab1/build/oop_lab1_tests.exe" "--gtest_filter=AlgorithmTest.ColSwapNullptr" "--gtest_also_run_disabled_tests"
+Directory: C:/C/OOP/oop_lab1/build
+"AlgorithmTest.ColSwapNullptr" start time: Oct 01 22:35 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/C/OOP/oop_lab1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = AlgorithmTest.ColSwapNullptr
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AlgorithmTest
+[ RUN      ] AlgorithmTest.ColSwapNullptr
+[       OK ] AlgorithmTest.ColSwapNullptr (0 ms)
+[----------] 1 test from AlgorithmTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"AlgorithmTest.ColSwapNullptr" end time: Oct 01 22:35 RTZ 2 (çèìà)
+"AlgorithmTest.ColSwapNullptr" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 01 22:35 RTZ 2 (çèìà)
